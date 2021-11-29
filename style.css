@@ -13,18 +13,30 @@ style {
 	background-color: #D6D6D6;
 	height: 460px;
 	width: 1500px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
 }
 #top {
 	height: 100px;
 	width: 1500px;
 	background-color: #CCCCCC;
 	text-align: center;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
 }
 #dh {
 	height: 50px;
 	width: 1500px;
 	background-color: #CCC;
 	text-align: center;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
 }
 .dh-bt {
 	height: 50px;
@@ -36,19 +48,104 @@ style {
 	line-height: 50px;
 	vertical-align: middle;
 }
-a:link {
-	color: #7174B7;
-	text-decoration: none;
+#nr {
+	height: 1230px;
+	width: 1500px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
 }
-a:visited {
-	color: #000000;
-	text-decoration: none;
-	display: block;
-	font-weight: bold;
+#nr-1 {
+	height: 1228px;
+	width: 858px;
+	float: left;
+	border: 1px solid #000;
 }
-a:hover {
-	text-decoration: underline;
-	color: #FFF;
-	background-color: #8A86C1;
-	display: block;
+#dbt {
+	float: left;
+	height: 100px;
+	width: 860px;
+	font-family: "微软雅黑";
+}
+#dbt-1 {
+	float: left;
+	height: 100px;
+	width: 180px;
+	font-size: 65px;
+	text-align: center;
+	line-height: 100px;
+	font-family: "微软雅黑";
+}
+#zw {
+	float: left;
+	height: 1130px;
+	width: 860px;
+	vertical-align: middle;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	text-indent: 2em;
+	font-size: 30px;
+	font-family: "华文楷体";
+}
+#yw {
+	float: left;
+	height: 50px;
+	width: 1500px;
+	text-align: center;
+	line-height: 50px;
+	background-color: #CCCCCC;
+}
+
+#dbt-2 {
+	height: 100px;
+	width: 680px;
+	float: left;
+	line-height: 100px;
+	font-size: 40px;
+}
+
+#nr-2 {
+	height: 1229px;
+	width: 639px;
+	float: left;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-right-color: #000;
+	border-bottom-color: #000;
+}
+.bt {
+	float: left;
+	height: 48px;
+	width: 630px;
+	line-height: 50px;
+	padding-left: 10px;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #000;
+	border-bottom-color: #000;
+}
+#sp {
+	float: left;
+	height: 360px;
+	width: 640px;
+}
+
+#tp {
+	height: 360px;
+	width: 640px;
+	float: left;
+	text-align: center;
+}
+#tp-2 {
+	height: 360px;
+	float: left;
+	width: 640px;
+	text-align: center;
 }
